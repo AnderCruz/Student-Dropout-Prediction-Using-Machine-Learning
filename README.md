@@ -1,20 +1,18 @@
-# 🎓 Student Dropout Prediction Using Machine Learning
+# Student Dropout Prediction Using Machine Learning
 
 This project aims to develop a **Machine Learning** model capable of predicting **student dropout** in higher education, enabling institutions to identify at-risk students and take preventive actions to reduce attrition.
 
-📊 Developed by **Nowa Analytics**, a consulting firm specialized in data-driven solutions for the education sector.
+Developed by **Nowa Analytics**, a consulting firm specialized in data-driven solutions for the education sector.
 
----
 
-## 📌 Background
+## Background
 
 Student dropout is a major challenge for educational institutions at all levels. Many students abandon their courses, especially during the first few semesters. This has a significant impact on both the institution and the students themselves.
 
 This project proposes the use of **data science** and **machine learning** techniques to **predict dropout before it happens**, enabling early intervention strategies.
 
----
 
-## ⚙️ Project Stages
+## Project Stages
 
 1. **Exploratory Data Analysis (EDA)**
 
@@ -56,7 +54,6 @@ This project proposes the use of **data science** and **machine learning** techn
    * Feature importance analysis
    * Discussion of causes and actionable recommendations for reducing dropout rates
 
----
 
 ## 📁 Project Structure
 
@@ -74,7 +71,6 @@ This project proposes the use of **data science** and **machine learning** techn
 └── requirements.txt     # Project dependencies
 ```
 
----
 
 ## 📊 Technologies and Libraries
 
@@ -86,9 +82,8 @@ This project proposes the use of **data science** and **machine learning** techn
 * Imbalanced-learn (SMOTE)
 * Jupyter Notebook
 
----
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repository:
 
@@ -105,9 +100,8 @@ pip install -r requirements.txt
 
 3. Run the notebooks from the `notebooks/` folder or execute the scripts in `src/`.
 
----
 
-## ✅ Results
+## Results
 
 The models demonstrated a strong ability to identify students at risk of dropping out, allowing the institution to:
 
@@ -115,24 +109,20 @@ The models demonstrated a strong ability to identify students at risk of droppin
 * Reduce student attrition
 * Improve engagement and retention
 
----
 
-## 🧠 Key Insights
+## Key Insights
 
 * Academic performance during the early semesters is a strong predictor of dropout.
 * Age, course type, and study mode (e.g., on-campus vs. remote) are important factors.
 * Balancing the dataset using **SMOTE** significantly improved model performance.
 
----
 
-## 🏢 About Nowa Analytics
+## About Nowa Analytics
 
 **Nowa Analytics** is a boutique data consulting firm focused on providing advanced analytics and AI solutions to organizations in education, finance, and travel.
 
 📍 Based in São Paulo, Madrid, and London
 🌐 [nowaanalytics.com](http://nowaanalytics.com)
-
----
 
 ## 📬 Contact
 
